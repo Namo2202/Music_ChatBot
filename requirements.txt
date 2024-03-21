@@ -1,5 +1,13 @@
+transformers[sentencepiece]
 flask~=2.2.2
 flask-restful
 flask-cors
 streamlit
 requests
+torch
+torchvision
+torchaudio
+pyttsx3
+PyAudio
+SpeechRecognition
+setuptools
